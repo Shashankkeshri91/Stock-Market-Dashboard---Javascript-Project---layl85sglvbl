@@ -101,9 +101,10 @@ button:hover {
 .stock-card a:hover {
   background-color: #ccc;
 }
-.card{
-  display: bold;
+
+.card {
+  font-weight: bold;
   font-size: 20px;
   color: black;
-  border: #333;
+  border-color: #333;
 }
